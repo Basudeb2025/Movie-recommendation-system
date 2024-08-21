@@ -6,7 +6,7 @@
       Happy to see you there, Wellcome to this repository here we will see the movie recommendation based on the rating , tags using content-based and collaborative filtering method. And using single KNN algorithm also.
     </td>
     <td style="border: none;">
-      <img src="https://media-s3-us-east-1.ceros.com/gumgum/images/2018/08/30/a4ef384f2a79aeee4847721ec28d8720/machine-training-animation-1.gif" alt="ML GIF" width="300"/>
+      <img src="https://www.digitalogy.co/blog/wp-content/uploads/2019/03/Machine-Learning.gif" alt="ML GIF" width="300"/>
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@ This project implements a hybrid recommendation system that combines content-bas
 - **Flexibility:** Adjusts the importance of content-based vs. collaborative scores with the alpha parameter.
 - **Improved Accuracy:** Addresses the weaknesses of using either method alone, leading to better overall recommendations.
 
- ## Disadvantages
+ ### Disadvantages
 - **Complexity:** More complicated than using just one recommendation method.
 - **Cold Start Problem:** New movies without enough tags or ratings may not be recommended effectively.
 - **Resource Intensive:** Requires computation of similarities based on both content and user ratings, which can be resource-heavy.
