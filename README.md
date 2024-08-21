@@ -1,6 +1,6 @@
-# Movie Recommendation System
+#Movie Recommendation system
 
-This project is a movie recommendation system that uses various machine learning algorithms like KNN, SVM, and others to suggest movies based on user preferences. The system is designed to help users discover new movies tailored to their tastes.
+This project is a movie recommendation system that uses various machine learning algorithms like KNN, SVM, and others to suggest movies based on movie tags, ratings. The system is designed to help users discover new movies tailored to their tastes.
 
 ## Table of Contents
 - [Description](#description)
