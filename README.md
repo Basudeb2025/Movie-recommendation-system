@@ -1,31 +1,26 @@
 # Movie Recommendation system
 
-This project is a movie recommendation system that uses various machine learning algorithms like KNN, SVM, and others to suggest movies based on movie tags, ratings. The system is designed to help users discover new movies tailored to their tastes.
+This project is a movie recommendation system that uses various machine learning algorithms like KNN, SVM, and others to suggest movies based on movies tags, ratings. The system is designed to help users discover new movies tailored to their tastes.
 
 ## Table of Contents
 - [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Algorithms Used](#algorithms-used)
 - [Dataset](#dataset)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-(installation steps)
-
-## Usage
-(usage instructions)
-
 ## Algorithms Used
-(algorithms description)
+ 
 
 ## Dataset
-(dataset information)
+3 datasets used in this project-
+ 1.ratings.csv
+ 2.tags.csv
+ 3.movies.csv
 
 ## Results
-(results and performance metrics)
+
 
 ## Contributing
 (contributing guidelines)
